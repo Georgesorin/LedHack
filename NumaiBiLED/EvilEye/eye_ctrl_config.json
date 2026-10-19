@@ -1,0 +1,12 @@
+{
+  "device_ip": "10.200.1.47",
+  "send_port": 50267,
+  "recv_port": 50367,
+  "bind_ip": "0.0.0.0",
+  "polling_rate_ms": 100,
+  "auto_connect": true,
+  "auto_start_receiver": true,
+  "auto_start_streaming": false,
+  "log_events": true,
+  "virtual_iface_ip": "0.0.0.0"
+}
