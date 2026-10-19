@@ -1,0 +1,517 @@
+[
+    {
+        "time": 4.249,
+        "column": 1,
+        "note": "E3"
+    },
+    {
+        "time": 5.457,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 6.664,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 7.848,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 9.056,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 10.263,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 11.447,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 12.655,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 13.862,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 15.047,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 16.254,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 17.461,
+        "column": 2,
+        "note": "G\u266f3"
+    },
+    {
+        "time": 18.646,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 19.853,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 21.06,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 22.268,
+        "column": 2,
+        "note": "A\u266f3"
+    },
+    {
+        "time": 23.452,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 24.66,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 25.867,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 27.051,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 28.259,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 29.466,
+        "column": 3,
+        "note": "B5"
+    },
+    {
+        "time": 30.65,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 31.858,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 33.065,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 34.273,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 35.457,
+        "column": 2,
+        "note": "A\u266f3"
+    },
+    {
+        "time": 36.641,
+        "column": 1,
+        "note": "E3"
+    },
+    {
+        "time": 37.849,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 39.056,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 40.263,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 41.448,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 42.655,
+        "column": 2,
+        "note": "A4"
+    },
+    {
+        "time": 43.862,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 45.07,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 46.254,
+        "column": 2,
+        "note": "A3"
+    },
+    {
+        "time": 47.462,
+        "column": 0,
+        "note": "C4"
+    },
+    {
+        "time": 48.669,
+        "column": 2,
+        "note": "A4"
+    },
+    {
+        "time": 49.853,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 51.061,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 52.268,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 53.452,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 54.66,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 55.867,
+        "column": 2,
+        "note": "A4"
+    },
+    {
+        "time": 57.051,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 58.259,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 59.466,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 60.651,
+        "column": 3,
+        "note": "B3"
+    },
+    {
+        "time": 61.858,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 63.042,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 64.25,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 65.457,
+        "column": 2,
+        "note": "G3"
+    },
+    {
+        "time": 66.664,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 67.872,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 69.01,
+        "column": 1,
+        "note": "F4"
+    },
+    {
+        "time": 70.287,
+        "column": 2,
+        "note": "G3"
+    },
+    {
+        "time": 71.471,
+        "column": 1,
+        "note": "E5"
+    },
+    {
+        "time": 72.655,
+        "column": 2,
+        "note": "A4"
+    },
+    {
+        "time": 73.863,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 75.047,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 76.254,
+        "column": 1,
+        "note": "F4"
+    },
+    {
+        "time": 77.462,
+        "column": 3,
+        "note": "B3"
+    },
+    {
+        "time": 78.669,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 79.853,
+        "column": 1,
+        "note": "E3"
+    },
+    {
+        "time": 81.061,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 82.245,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 83.453,
+        "column": 0,
+        "note": "D\u266f3"
+    },
+    {
+        "time": 84.66,
+        "column": 0,
+        "note": "D4"
+    },
+    {
+        "time": 85.844,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 87.075,
+        "column": 2,
+        "note": "A4"
+    },
+    {
+        "time": 88.259,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 89.466,
+        "column": 3,
+        "note": "B3"
+    },
+    {
+        "time": 90.651,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 91.858,
+        "column": 3,
+        "note": "B4"
+    },
+    {
+        "time": 93.066,
+        "column": 2,
+        "note": "G\u266f3"
+    },
+    {
+        "time": 94.273,
+        "column": 2,
+        "note": "G\u266f3"
+    },
+    {
+        "time": 95.457,
+        "column": 1,
+        "note": "E5"
+    },
+    {
+        "time": 96.665,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 97.849,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 99.056,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 100.264,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 101.448,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 102.655,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 103.863,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 105.047,
+        "column": 1,
+        "note": "F\u266f4"
+    },
+    {
+        "time": 106.255,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 107.462,
+        "column": 0,
+        "note": "Percussion"
+    },
+    {
+        "time": 108.669,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 109.854,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 111.061,
+        "column": 0,
+        "note": "C\u266f6"
+    },
+    {
+        "time": 112.268,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 113.453,
+        "column": 1,
+        "note": "F\u266f3"
+    },
+    {
+        "time": 114.66,
+        "column": 2,
+        "note": "G4"
+    },
+    {
+        "time": 115.868,
+        "column": 2,
+        "note": "A3"
+    },
+    {
+        "time": 117.052,
+        "column": 0,
+        "note": "D5"
+    },
+    {
+        "time": 118.259,
+        "column": 1,
+        "note": "E3"
+    },
+    {
+        "time": 119.467,
+        "column": 1,
+        "note": "F3"
+    },
+    {
+        "time": 120.651,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 121.858,
+        "column": 1,
+        "note": "E4"
+    },
+    {
+        "time": 122.926,
+        "column": 1,
+        "note": "E3"
+    },
+    {
+        "time": 124.041,
+        "column": 3,
+        "note": "B3"
+    },
+    {
+        "time": 125.318,
+        "column": 2,
+        "note": "A\u266f3"
+    },
+    {
+        "time": 126.642,
+        "column": 1,
+        "note": "E3"
+    }
+]
