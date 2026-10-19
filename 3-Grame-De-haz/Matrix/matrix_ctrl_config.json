@@ -1,0 +1,10 @@
+{
+    "device_ip": "127.0.0.1",
+    "send_port": 4627,
+    "recv_port": 7802,
+    "auto_start_streaming": false,
+    "last_used_ports": [],
+    "bind_ip": "0.0.0.0",
+    "display_screen": false,
+    "monitor_offset_x": 1920
+}
